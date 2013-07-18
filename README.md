@@ -1,4 +1,10 @@
 simple_nlp
 ==========
 
-simple NLP app using C#
+
+Hi all ,
+
+this is a simple NLP app using C# I made in the AI project 
+
+
+Documenation will be updated soon
