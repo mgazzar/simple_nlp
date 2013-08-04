@@ -13,7 +13,7 @@ U can use this features :-
 - word frequency
 - List words by frequency
 - Get type token ratio
-- talking to L "PC character"
+- What is NLP
 - 
 
 
